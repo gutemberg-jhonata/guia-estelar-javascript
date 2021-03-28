@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Exercicios básicos de javascript",
   "author": "Jhonata Gutemberg dos Santos",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
 }
