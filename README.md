@@ -11,8 +11,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto contém exercícios práticos e anotações pessoais das aulas do guia estelar do javascript da rocketseat.
 
-## Uso
+## ☑️ Uso
 
-    git clone https://github.com/gutemberg-jhonata/guia-estelar-javascript.git
-    cd guia-estelar-javascript
-    node src/notasEscolares
+```bash 
+git clone https://github.com/gutemberg-jhonata/guia-estelar-javascript.git
+cd guia-estelar-javascript
+node src/notasEscolares
+```
